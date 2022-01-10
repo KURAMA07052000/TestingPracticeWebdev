@@ -1,0 +1,23 @@
+{
+  "name": "wad2lab6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FionaMacRaeFairlie/WAD2Lab6.git"
+  },
+  "author": "Fiona Fairlie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FionaMacRaeFairlie/WAD2Lab6/issues"
+  },
+  "homepage": "https://github.com/FionaMacRaeFairlie/WAD2Lab6#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nedb": "^1.8.0"
+  }
+}
